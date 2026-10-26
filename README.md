@@ -55,31 +55,8 @@ These results describe the synthetic dataset and should not be interpreted as re
 - Clustered column chart
 - Interactive sensor slicer
 
-## Project Structure
 
-- `data/`: Source dataset
-- `report/`: Final project report
-- `screenshots/`: Dashboard screenshots
-- `TP03_Fire_Monitoring.pbix`: Power BI project file
 
-## Limitations
 
-The dataset is synthetic. The project does not implement live sensor monitoring or a validated fire detection model. A functional geographical map was not completed.
 
-## How to Use
 
-1. Download or clone this repository.
-2. Open `TP03_Fire_Monitoring.pbix` using Power BI Desktop.
-3. If prompted, update the CSV data source path to the dataset in the `data` folder.
-4. Apply the data changes if necessary.
-5. Explore the dashboard using the sensor slicer.
-
-## Author
-
-Akila Saker
-
-Master 2 – Artificial Intelligence and Data Science
-
-University of Echahid Hama Lakhdar – El Oued
-
-Academic Year: 2025–2026
